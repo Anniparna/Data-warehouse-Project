@@ -1,0 +1,17 @@
+About Airbnb:
+
+Airbnb is an online and mobile marketplace that allows users to host their apartments, houses or other spaces for travelers or other users. It connects the Hosts with Guests. Host are people who post listings(s) of available spaces on the website. Guests are people who book the spaces. To read more on how it works, visit https://www.airbnb.com/help/getting-started/how-it-works
+
+Scope:
+
+The scope is limited to what is asked for in the Business Requirements section.
+
+Business Requirements:
+
+ A guest can provide feedback about his/her stay for the rented space and about the host. Your design should be able to capture history of the reviews. Note : Host Reviews are out of scope
+- Business should be able to view reviews given per property, per guest, per host, per month etc.
+ Make sure your design captures Property details , and details of the Guest and Host
+ Your design should capture apartment-booking details. This includes the number of days an apartment is booked for, the total amount billed to the guest, and details about the guest or the host for the transaction
+- Business should be able to run reports to get the total revenue/no of apartments booked per guest, by the city, apartment zip, by region, by month etc.
+
+
