@@ -15,10 +15,16 @@ Assumptions:
 
  A Host can be a Guest too.
  You must capture the details of the listed apartments in your design.
- Hosts go through profile checks before they can join the Airbnb community. The database design should track the results of the Identity and Background checks for each Host.
- A Guest can select different categories and different kinds of space to rent out. For each kind of apartment, the guest can select the Location, number of guests, and dates the apartment is available, room type (Entire Home, Private Room or Shared Room) and also the price range.
- A Host (when listing a space) selects the kind of space (House, Apartment, Bed & Breakfast etc.) , the kind of rooms (Entire Place, Private Room and Shared Room ), the physical address, the number of guests allowed, amenities ,any additional requirements for the guest (you think reasonable) dates the listed space would be available and also the price quote for the listed space.
+ Hosts go through profile checks before they can join the Airbnb community. The database design should track the results of the Identity 
+and Background checks for each Host.
+ A Guest can select different categories and different kinds of space to rent out. For each kind of apartment, the guest can select the 
+Location, number of guests, and dates the apartment is available, room type (Entire Home, Private Room or Shared Room) and also the price 
+range.
+ A Host (when listing a space) selects the kind of space (House, Apartment, Bed & Breakfast etc.) , the kind of rooms (Entire Place, 
+Private Room and Shared Room ), the physical address, the number of guests allowed, amenities ,any additional requirements for the guest 
+(you think reasonable) dates the listed space would be available and also the price quote for the listed space.
  Rental spaces in the searched area show up with their availability.
- Guests could select area using the map feature available on the website. You should translate that into the Zip codes the apartments are available in.
+ Guests could select area using the map feature available on the website. You should translate that into the Zip codes the apartments 
+are available in.
  The system keeps track of the apartment availability based on what’s booked and the timeframe selected.
  The system should keep track of the transaction details every time a booking is made.
